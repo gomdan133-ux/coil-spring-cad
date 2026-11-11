@@ -1,0 +1,33 @@
+{
+  "spec": {
+    "wire_d": 12.5,
+    "mean_coil_d": 110.0,
+    "active_coils": 6.5,
+    "pitch": 45.0,
+    "seat_od": 140.0,
+    "seat_id": 70.0,
+    "seat_t": 6.0,
+    "seat_lip_h": 8.0
+  },
+  "free_length_mm": 305.0,
+  "solid_height_mm": 93.75,
+  "spring_index": 8.8,
+  "wahl_factor": 1.166,
+  "rate_n_per_mm": 27.97,
+  "wire_length_mm": 2265.2,
+  "cad_volume_mm3": 277982.2,
+  "hand_calc_volume_mm3": 277982.2,
+  "volume_error_pct": -8e-06,
+  "mass_kg": 2.182,
+  "ride_height": {
+    "load_n": 4336.0,
+    "deflection_mm": 155.0,
+    "length_mm": 150.0,
+    "shear_stress_mpa": 725
+  },
+  "at_solid": {
+    "load_n": 5909,
+    "travel_mm": 211.2,
+    "shear_stress_mpa": 988
+  }
+}
